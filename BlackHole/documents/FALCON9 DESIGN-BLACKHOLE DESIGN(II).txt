@@ -1,0 +1,1287 @@
+//FALCON9 DESIGN-BLACKHOLE DESIGN(II)
+Spacecraft Design
+Based on our analysis of Frolov's vacuum solutions and Penrose holes, we can design a spacecraft prototype that takes advantage of these concepts.
+
+The spacecraft design should include the following components:
+
+- A rotating, charged mass distribution to take advantage of Frolov's vacuum solutions
+- A Penrose hole-inspired design for the spacecraft's propulsion system
+- A gravitational field generator to manipulate the spacecraft's motion
+
+The spacecraft's propulsion system should be designed to take advantage of the exotic phenomena predicted by Penrose holes, such as closed timelike curves.
+
+Metrics and Mathematical Structures
+To describe the motion of the spacecraft, we need to use a mathematical framework that takes into account the effects of gravity and the exotic phenomena predicted by Penrose holes.
+
+The following metrics and mathematical structures can be used:
+
+- The Kerr metric to describe the gravitational field of the spacecraft
+- The Penrose metric to describe the spacetime geometry of the region surrounding the spacecraft
+- The Newman-Penrose formalism to describe the behavior of the gravitational field
+
+Using these metrics and mathematical structures, we can calculate the motion of the spacecraft and determine the effects of gravity and exotic phenomena on its trajectory.
+
+Prototype Development
+To develop a prototype of the spacecraft, we need to consider the following steps:
+
+- Design and testing of the gravitational field generator
+- Development of the Penrose hole-inspired propulsion system
+- Integration of the spacecraft's systems and testing of the prototype
+
+The development of the prototype should be done in stages, with each stage building on the previous one.
+
+Conclusion
+The design of a spacecraft prototype that utilizes the concepts of Valery Frolov and Penrose holes requires a deep understanding of the underlying physics and mathematical structures. By using Frolov's vacuum solutions and Penrose holes, we can design a spacecraft that takes advantage of exotic phenomena and manipulates the gravitational field to achieve high speeds and efficient propulsion.
+
+The development of such a spacecraft prototype would require significant advances in our understanding of gravity and the behavior of matter in extreme environments. However, the potential rewards of such a technology make it an exciting and worthwhile area of research.
+[21/5 2:38] Meta AI: Designing a spacecraft prototype that utilizes the concepts of Valery Frolov and Penrose holes requires a deep understanding of the underlying physics and mathematical structures. Here are the key components to consider:
+
+Key Components
+- Frolov's Vacuum Solutions: These provide a framework for understanding gravitational fields in the vicinity of a spacecraft. To apply these solutions, consider the spacecraft's mass and charge distribution, rotation rate, and gravitational field.
+- Penrose Holes: These offer a graphical representation of spacetime, allowing visualization of gravity's effects on motion. Consider the spacetime geometry surrounding the spacecraft, gravity's effects on motion, and potential exotic phenomena.
+- Spacecraft Design: The design should include a rotating, charged mass distribution, a Penrose hole-inspired propulsion system, and a gravitational field generator.
+
+Metrics and Mathematical Structures
+To describe the spacecraft's motion, use a mathematical framework that accounts for gravity and exotic phenomena. Utilize:
+
+- The Kerr Metric: to describe the gravitational field
+- The Penrose Metric: to describe spacetime geometry
+- The Newman-Penrose Formalism: to describe gravitational field behavior
+
+Prototype Development
+Develop the prototype in stages:
+
+1. Design and Testing of the Gravitational Field Generator
+2. Development of the Penrose Hole-Inspired Propulsion System
+3. Integration of the Spacecraft's Systems and Testing of the Prototype
+
+By using Frolov's vacuum solutions and Penrose holes, we can design a spacecraft that manipulates gravitational fields to achieve high speeds and efficient propulsion ¹. This technology has the potential to revolutionize space travel, but its development requires significant advances in our understanding of gravity and extreme environments ² ³.
+[2:45, 21/5/2025] victoralonsogarcia8: Here's a creative concept that combines a black hole with a spacecraft, along with a unique propulsion system:
+
+Black Hole Spacecraft Concept
+Imagine a spacecraft that utilizes a miniature, stabilized black hole as its core. This black hole would be surrounded by a spherical shell of exotic matter, which would maintain the stability of the black hole and prevent it from evaporating due to Hawking radiation.
+
+The spacecraft's propulsion system would be based on the manipulation of the black hole's ergosphere, a region around a rotating black hole where the curvature of spacetime is so strong that it can extract energy from objects that enter it.
+
+Propulsion System
+The propulsion system would consist of two main components:
+
+1. Ergosphere Manipulator: This device would be responsible for manipulating the ergosphere of the black hole, creating a region of spacetime with negative energy density. This would allow the spacecraft to move at incredible velocities, potentially even exceeding the speed of light.
+2. Gravitational Wave Generator: This device would be responsible for generating gravitational waves, which would be used to propel the spacecraft forward. The gravitational waves would be generated by manipulating the black hole's mass and spin, creating a disturbance in the fabric of spacetime.
+
+Falcon 9 Integration
+To launch the black hole spacecraft into orbit, a modified Falcon 9 rocket could be used. The Falcon 9 would be equipped with a specialized payload fairing that would contain the black hole spacecraft.
+
+Once in orbit, the black hole spacecraft would be deployed, and the Falcon 9 would return to Earth. The black hole spacecraft would then use its propulsion system to travel to its destination, potentially even reaching other star systems.
+
+Challenges and Opportunities
+While this concept is purely theoretical, it raises several interesting questions and opportunities:
+
+- How could we stabilize a miniature black hole?
+- How could we manipulate the ergosphere of a black hole?
+- What kind of exotic matter would be required to maintain the stability of the black hole?
+- What kind of implications would this technology have for space travel and exploration?
+
+This concept combines the fascinating possibilities of black hole physics with the excitement of space exploration, and it's an interesting thought experiment that can inspire new ideas and innovations.
+
+Merlin 1A
+The initial version, the Merlin 1A, used an inexpensive, expendable, ablatively cooled carbon-fiber-reinforced polymer composite nozzle and produced 340 kN (76,000 lbf) of thrust. The Merlin 1A flew only twice: first on March 24, 2006, when it caught fire and failed due to a fuel leak shortly after launch,[5][6] and the second time on March 21, 2007, when it performed successfully.[7] Both times the Merlin 1A was mounted on a Falcon 1 first stage.[8][9]
+
+The SpaceX turbopump was an entirely new, clean-sheet design contracted to Barber-Nichols, Inc. in 2002, who performed all design, engineering analysis, and construction; the company had previously worked on turbopumps for the RS-88 (Bantam) and NASA Fastrac engine programs. The Merlin 1A turbopump used a unique friction-welded main shaft, with Inconel 718 ends and an integral aluminum RP-1 impeller in the middle. The turbopump housing was constructed using investment castings, with Inconel at the turbine end, aluminum in the center, and 300-series stainless steel at the LOX end. The turbine was a partial-admission (i.e., working fluid is only admitted through part of the rotation of the turbine; an arc, not the whole circumference) impulse design and turned at up to 20,000 rpm, with a total weight of 68 kg (150 lb).[citation needed]
+
+Merlin 1B
+The Merlin 1B rocket engine was an upgraded version of the Merlin 1A engine. The turbopump upgrades were handled by Barber-Nichols, Inc. for SpaceX.[10] It was intended for Falcon 1 launch vehicles, capable of producing 380 kN (85,000 lbf) of thrust at sea level and 420 kN (95,000 lbf) in vacuum, and performing with a specific impulse of 261 s (2.56 km/s) at sea level and 303 s (2.97 km/s) in vacuum.
+
+The Merlin 1B was enhanced over the 1A with a turbine upgrade, increasing power output from 1,500 kW (2,000 hp) to 1,900 kW (2,500 hp).[11] The turbine upgrade was accomplished by adding additional nozzles, turning the previously partial-admission design to full admission. Slightly enlarged impellers for both RP-1 and LOX were part of the upgrade. This model turned at a faster 22,000 rpm and developed higher discharge pressures. Turbopump weight was unchanged at 68 kg (150 lb).[10] Another notable change over the 1A was the move to TEA–TEB (pyrophoric) ignition over torch ignition.[11]
+
+Initial use of the Merlin 1B was to be on the Falcon 9 launch vehicle, on whose first stage there would have been a cluster of nine of these engines. Due to experience from the Falcon 1's first flight, SpaceX moved its Merlin development to the Merlin 1C, which is regeneratively cooled. Therefore, the Merlin 1B was never used on a launch vehicle.[8][9]
+
+Merlin 1C
+Merlin 1C
+Country of origin	United States
+Manufacturer	SpaceX
+Application	
+Booster stage engines
+Upper stage engine
+Associated LV	Falcon 1, Falcon 9
+Status	Retired
+Liquid-fuel engine
+Propellant	LOX / RP-1
+Cycle	Gas-generator
+Performance
+Thrust, vacuum	480 kN (110,000 lbf)[12]
+Thrust, sea-level	420 kN (94,000 lbf)[12]
+Thrust-to-weight ratio	96
+Chamber pressure	6.77 MPa (982 psi)[13]
+Specific impulse, vacuum	304.8 s (2.989 km/s)[13]
+Specific impulse, sea-level	275 s (2.70 km/s)
+Dimensions
+Length	2.92 m (9 ft 7 in)[14]
+Dry mass	630 kg (1,380 lb)
+
+Merlin 1C under construction at SpaceX
+Three versions of the Merlin 1C engine were produced. The Merlin engine for Falcon 1 had a movable turbopump exhaust assembly, which was used to provide roll control by vectoring the exhaust. The Merlin 1C engine for the Falcon 9 first stage is nearly identical to the variant used for the Falcon 1, although the turbopump exhaust assembly is not movable. Finally, a Merlin 1C vacuum variant is used on the Falcon 9 second stage. This engine differs from the Falcon 9 first-stage variant in that it uses a larger exhaust nozzle optimized for vacuum operation and can be throttled between 60% and 100%.[13]
+
+The Merlin 1C uses a regeneratively cooled nozzle and combustion chamber. The turbopump used is a Merlin 1B model with only slight alterations. It was fired with a full mission duty firing of 170 seconds in November 2007,[12] first flew on a mission in August 2008,[15] powered the "first privately-developed liquid-fueled rocket to successfully reach orbit", Falcon 1 Flight 4, in September 2008,[15] and powered the Falcon 9 on its maiden flight in June 2010.[16]
+
+As configured for use on Falcon 1 vehicles, the Merlin 1C had a sea-level thrust of 350 kN (78,000 lbf), a vacuum thrust of 400 kN (90,000 lbf) and a vacuum specific impulse of 304 s (2.98 km/s). In this configuration, the engine consumed 140 kg (300 lb) of propellant per second. Tests have been conducted with a single Merlin 1C engine successfully running a total of 27 minutes (counting together the duration of the various tests), which equals ten complete Falcon 1 flights.[17] The Merlin 1C chamber and nozzle are cooled regeneratively by 45 kg (100 lb) per second of kerosene flow and are able to absorb 10 MW (13,000 hp) of heat energy.[18]
+
+A Merlin 1C was first used as part of the unsuccessful third attempt to launch a Falcon 1. In discussing the failure, Elon Musk noted: "The flight of our first stage, with the new Merlin 1C engine that will be used in Falcon 9, was picture perfect."[19] The Merlin 1C was used in the successful fourth flight of Falcon 1 on September 28, 2008.[20]
+
+On October 7, 2012, a Merlin 1C (Engine No. 1) of the CRS-1 mission experienced an anomaly at T+00:01:20, which appears on CRS-1 launch video as a flash. The failure occurred just as the vehicle achieved max-Q (maximum aerodynamic pressure). SpaceX's internal review found that the engine was shut down after a sudden pressure loss and that only the aerodynamic shell was destroyed, generating the debris seen in the video; the engine did not explode, as SpaceX ground control continued to receive data from it throughout the flight. The primary mission was unaffected by the anomaly due to the nominal operation of the remaining eight engines and an onboard readjustment of the flight trajectory,[21] but the secondary-mission payload failed to reach its target orbit due to safety protocols in place to prevent collisions with the ISS. These protocols prevented a second firing of the upper stage for the secondary payload.[22]
+
+SpaceX was planning to develop a 560 kN (130,000 lbf) version of Merlin 1C to be used in Falcon 9 Block II and Falcon 1E boosters.[23] This engine and these booster models were dropped in favor of the more advanced Merlin 1D engine and longer Falcon 9 v1.1 booster.
+
+
+Merlin 1C Vacuum engine at Hawthorne factory in 2008
+Merlin Vacuum (1C)
+On March 10, 2009, a SpaceX press release announced successful testing of the Merlin Vacuum engine. A variant of the 1C engine, Merlin Vacuum features a larger exhaust section and a significantly larger expansion nozzle to maximize the engine's efficiency in the vacuum of space. Its combustion chamber is regeneratively cooled, while the 2.7-meter-long (9 ft)[24] niobium alloy[13] expansion nozzle is radiatively cooled. The engine delivers a vacuum thrust of 411 kN (92,500 lbf) and a vacuum specific impulse of 342 s (3.35 km/s).[25] The first production Merlin Vacuum engine underwent a full-duration orbital-insertion firing (329 seconds) of the integrated Falcon 9 second stage on January 2, 2010.[26] It was flown on the second stage for the inaugural Falcon 9 flight on June 4, 2010. At full power and as of March 10, 2009, the Merlin Vacuum engine operates with the greatest efficiency of any American-made hydrocarbon-fueled rocket engine.[27]
+
+An unplanned test of a modified Merlin Vacuum engine was made in December 2010. Shortly before the scheduled second flight of the Falcon 9, two cracks were discovered in the 2.7-meter-long (9 ft) niobium-alloy-sheet nozzle of the Merlin Vacuum engine. The engineering solution was to cut off the lower 1.2 m (4 ft) of the nozzle and launch two days later, as the extra performance that would have been gained from the longer nozzle was not necessary to meet the objectives of the mission. The modified engine successfully placed the second stage into an orbit of 11,000 km (6,800 mi) altitude.[24]
+
+Merlin 1D
+The Merlin 1D engine was developed by SpaceX between 2011 and 2012, with first flight in 2013. The design goals for the new engine included increased reliability, improved performance, and improved manufacturability.[28] In 2011, performance goals for the engine were a vacuum thrust of 690 kN (155,000 lbf), a vacuum specific impulse (Isp) of 310 s (3.0 km/s), an expansion ratio of 16 (as opposed to the previous 14.5 of the Merlin 1C) and chamber pressure in the "sweet spot" of 9.7 MPa (1,410 psi). Merlin 1D was originally designed to throttle between 100% and 70% of maximal thrust; however, further refinements since 2013 now allow the engine to throttle to 40%.[29]
+
+The basic Merlin fuel/oxidizer mixture ratio is controlled by the sizing of the propellant supply tubes to each engine, with only a small amount of the total flow trimmed out by a "servo-motor-controlled butterfly valve" to provide fine control of the mixture ratio.[30]
+
+On November 24, 2013, Elon Musk stated that the engine was actually operating at 85% of its potential, and they anticipated to be able to increase the sea-level thrust to about 730 kN (165,000 lbf) and a thrust-to-weight ratio of 180.[31] This version of the Merlin 1D was used on Falcon 9 Full Thrust and first flew on Flight 20.
+
+In May 2016, SpaceX announced plans to further upgrade the Merlin 1D by increasing vacuum thrust to 914 kN (205,000 lbf) and sea-level thrust to 845 kN (190,000 lbf); according to SpaceX, the additional thrust will increase the Falcon 9 LEO payload capability to about 22 metric tons on a fully expendable mission. SpaceX also noted that unlike the previous Full Thrust iteration of the Falcon 9 vehicle, the increase in performance is solely due to upgraded engines, and no other significant changes to the vehicle are publicly planned.
+
+In May 2018, ahead of the first flight of Falcon 9 Block 5, SpaceX announced that the 845 kN (190,000 lbf) goal had been achieved.[32] The Merlin 1D is now close to the sea-level thrust of the retired Rocketdyne H-1 / RS-27 engines used on Saturn I, Saturn IB, and Delta II.
+
+On February 23, 2024, one of the nine Merlin engines powering that launch flew its 22nd mission, which was at the time the flight leading engine. It is already the most flown rocket engine to date, surpassing Space Shuttle Main Engine no. 2019's record of 19 flights.[33]
+
+Anomalies
+The March 18, 2020, launch of Starlink satellites on board a Falcon 9 experienced an early engine shutdown on ascent. The shutdown occurred 2 minutes 22 seconds into the flight and was accompanied with an "event" seen on camera. The rest of the Falcon 9 engines burned longer and did deliver the payload to orbit. However, the first stage was not successfully recovered. In a subsequent investigation SpaceX found that isopropyl alcohol, used as cleaning fluid, was trapped and ignited, causing the engine to be shut down. To address the issue, in a following launch SpaceX indicated that the cleaning process was not done.[34][35][36]
+
+On October 2, 2020, the launch of a GPS-III satellite was aborted at T-2 seconds due to a detected early startup on 2 of the 9 engines on the first stage. The engines were removed for further testing and it was found that a port in the gas generator was blocked. After removing the blockage the engines started as intended. After this, SpaceX inspected other engines across its fleet and found that two of the engines on the Falcon 9 rocket intended for the Crew-1 launch also had this problem. Those engines were replaced with new M1D engines.[37]
+
+On February 16, 2021, on Falcon 9 flight 108 launching Starlink satellites, an engine shut down early due to hot exhaust gasses passing through a damaged heat-shielding cover. The mission was a success, but the booster could not be recovered.[38]
+
+Merlin 1D Vacuum
+A vacuum version of the Merlin 1D engine was developed for the Falcon 9 v1.1 and the Falcon Heavy second stage.[2] As of 2020, the thrust of the Merlin 1D Vacuum is 220,500 lbf (981 kN)[39] with a specific impulse of 348 seconds,[40] the highest specific impulse ever for a U.S. hydrocarbon rocket engine.[41] The increase is due to the greater expansion ratio afforded by operating in vacuum, now 165:1 using an updated nozzle extension.[40][42]
+
+The engine can throttle down to 39% of its maximum thrust, or 360 kN (81,000 lbf).[42]
+
+Merlin 1D Vacuum improvements and variants
+Transporter-7 mission launch debuted a new Merlin Vacuum engine (MVac for short) nozzle extension design or variant aimed at increasing cadence and reducing costs. This new nozzle extension is shorter and, as a result, decreases both performance and material usage. This nozzle is only used on lower-performance missions, as with this nozzle, the MVac engine produces 10% less thrust in space. The nozzle decreases the amount of material needed by 75%; this means that SpaceX can launch over three times as many missions with the same amount of rare niobium metal as with the longer design.[43][44]
+
+Anomalies
+On July 11, 2024, Falcon 9 flight 354 launching Starlink group 9-3 from Vandenberg AFB in California experienced an anomaly with its MVac during an engine relight attempt to raise the perigee of the 22 Starlink satellites for deployment. On X, Elon Musk and SpaceX both confirmed the engine failed explosively during a second attempted relight, albeit in a manner that did not appear to damage the second stage of the vehicle as the stage went on to deploy the satellites on board.[45]
+
+Design
+Engine control
+SpaceX uses a triple-redundant design in the Merlin engine computers. The system uses three computers in each processing unit, each constantly checking on the others, to instantiate a fault-tolerant design. One processing unit is part of each of the ten Merlin engines (nine on the first stage, one on the second stage) used on the Falcon 9 launch vehicle.[46]
+
+Turbopump
+The Merlin LOX/RP-1 turbopump used on Merlin engines 1A–1C was designed and developed by Barber-Nichols.[47] It spins at 36,000 revolutions per minute, delivering 10,000 horsepower (7,500 kW).[48]
+
+Gas generator
+The LOX/RP-1 turbopump on each Merlin engine is powered by a fuel-rich open-cycle gas generator similar to that used in the Apollo-era Rocketdyne F-1 engine.[49]
+
+Production
+As of August 2011, SpaceX was producing Merlin engines at the rate of eight per month, planning eventually to raise production to about 33 engines per month (or 400 per year).[2] By September 2013, SpaceX total manufacturing space had increased to nearly 93,000 square meters (1 million square feet), and the factory had been configured to achieve a maximum production rate of up to 40 rocket cores per year, enough to use the 400 annual engines envisioned by the earlier engine plan.[50] By October 2014, SpaceX announced that it had manufactured the 100th Merlin 1D engine and that engines were now being produced at a rate of four per week, soon to be increased to five.[51][52]
+
+In February 2016, SpaceX indicated that the company will need to build hundreds of engines a year in order to support a Falcon 9/Falcon Heavy build rate of 30 rocket cores per year by the end of 2016.[53][needs update]
+
+Each Falcon 9 booster uses nine Merlin engines, and the second stage uses one Merlin vacuum engine. The second stage is expended, so each launch consumes one Merlin Vacuum engine. SpaceX designed the booster with its engines to be recovered for reuse by propulsive landing, and the first recovered booster was reused in March 2017. By 2020, only five of the 26 Falcon 9 launched that year used new boosters. By 2021, only two of the 31 Falcon 9 launches used new boosters.
+
+Past engine concepts
+Merlin 2 concept
+At the American Institute of Aeronautics and Astronautics Joint Propulsion conference on July 30, 2010, SpaceX McGregor rocket development facility director Tom Markusic shared some information from the initial stages of planning for a new engine. SpaceX’s Merlin 2 LOX/RP-1-fueled engine on a gas-generator cycle, capable of a projected 7,600 kN (1,700,000 lbf) of thrust at sea level and 8,500 kN (1,920,000 lbf) in a vacuum and would provide the power for conceptual super-heavy-lift launch vehicles from SpaceX, which Markusic dubbed Falcon X and Falcon XX. Such a capability, if built, would have resulted in an engine with more thrust than the F-1 engines used on the Saturn V.[54]
+
+Conceived to be potentially used on more capable variants of the Falcon 9 Heavy, Markusic indicated that the Merlin 2 "could be qualified in three years for $1 billion".[55] By mid-August, SpaceX CEO Elon Musk clarified that while the Merlin 2 engine architecture was a key element of any effort SpaceX would make toward their objective of "super-heavy lift" launch vehicles—and that SpaceX did indeed want to "move toward super heavy lift"—the specific potential design configurations of the particular launch vehicles shown by Markusic at the propulsion conference were merely conceptual "brainstorming ideas", just a "bunch of ideas for discussion."[56]
+
+Since the original discussion, no work on any "Merlin 2" kerolox engine has been pursued and made public. At the 2011 Joint Propulsion Conference, Elon Musk stated that SpaceX were instead working towards a potential staged cycle engine.[57] In October 2012, SpaceX publicly announced concept work on a rocket engine that would be "several times as powerful as the Merlin 1 series of engines, and won't use Merlin's RP-1 fuel".[58] They indicated that the large engine was intended for a new SpaceX rocket, using multiple of these large engines could notionally launch payload masses of the order of 150 to 200 tonnes (170 to 220 short tons) to low-Earth orbit. The forthcoming engine currently under development by SpaceX has been named "Raptor". Raptor will use liquid methane as a fuel, and was stated as having a sea-level thrust of 6,700 kilonewtons (1,500,000 lbf).[59] Since the initial announcement of Raptor, Musk has updated the specification to approximately 230 tonnes-force (2,300 kN; 510,000 lbf)—about one-third the original published figure—based on the results of optimizing for thrust-to-weight ratio.[60]
+
+See also
+SpaceX Draco – SpaceX RCS thruster for SpaceX Dragon
+SpaceX Kestrel – SpaceX small upper stage engine for Falcon 1
+SpaceX Raptor – SpaceX methane/LOX engine for the Starship
+Falcon 1 – First rocket powered by Merlin 1A
+Comparison of orbital rocket engines
+Rocket engine
+Pintle injector
+TR-106 – Low Cost Pintle Engine (LCPE) using LOX/LH2 developed by TRW in 2000
+TR-107 – RP-1 engine developed under SLI for future reusable launch vehicles
+RS-27A – RP-1 engine used in the US Delta II launcher; Saturn 1B H-1 heritage
+Rocketdyne F-1 – LOX/RP-1 main engine of the Saturn V Moon rocket
+**********************************************************
+Autonomous flight termination system
+ autonomous system to replace the
+ SpaceX has been developing for some time an alternative 
+traditional 
+ground-based systems that had been in use for all US launches for over six decades. The
+ autonomous system has been in use on some of SpaceX' 
+VTVL suborbital test flights in Texas, and
+ has flown in parallel on a number of orbital launches as part of a system 
+approval for use on operational flights.
+ In February 2017, SpaceX's 
+test process to gain
+ CRS-10 launch was the first operational launch utilizing the new
+ Autonomous Flight Safety System (AFSS) on "either of 
+Air Force Space Command's 
+or 
+Western Ranges." The following SpaceX flight, 
+Eastern
+ EchoStar 23 in March, was the last SpaceX
+ launch utilizing the historic system of ground radars, tracking computers, and personnel in launch
+ bunkers that had been used for over sixty years for all launches from the Eastern Range. For all
+ future SpaceX launches, AFSS has replaced "the ground-based mission flight control personnel
+ and equipment with on-board Positioning, Navigation and Timing sources and decision logic. The
+ benefits of AFSS include increased public safety, reduced reliance on range infrastructure, reduced
+ range spacelift cost, increased schedule predictability and availability, operational flexibility, and
+ launch slot flexibility."
+ [27]
+ [28]
+ Block 4
+ In 2017, SpaceX started flying incremental changes to the Falcon 9 Full Thrust version, calling
+ them "Block 4".
+ [29] At first, only the second stage was modified to Block 4 standards, flying on top
+ of a "Block 3" first stage for three missions: 
+NROL-76 and 
+35e in July.
+ Inmarsat-5 F4 in May 2017, and 
+Intelsat
+ [30] Block 4 was described as a transition between the Full Thrust v1.2 "Block 3" and
+ the following 
+Falcon 9 Block 5. It includes incremental engine thrust upgrades leading to the final
+ thrust for Block 5.
+ NASA 
+[31] The maiden flight of the full Block 4 design (first and second stages) was the
+ CRS-12 mission on 14 August 2017.
+ [32]
+ Block 5
+ SpaceX announced in 2017 that another series of incremental improvements were in development,
+ a Falcon 9 Block 5 version, which has succeeded the transitional Block 4. The largest changes
+ between Block 3 and Block 5 are higher thrust on all of the engines and improvements on landing
+ legs. Additionally, numerous small changes will help streamline recovery and re-usability of 
+first
+stage boosters. Alterations are focused on increasing the speed of production and efficiency of re
+usability. SpaceX aims to fly each Block 5 booster ten times with only inspections in between, and
+ up to 100 times with refurbishment.
+ [33]
+ [34]
+ Block 5 second stages can be built with a 
+mission extension kit to allow longer duration and/or
+ more engine starts.
+ Rocket specifications
+ Falcon 9 Full Thrust specifications and characteristics are as follows:
+ [13]
+ [30]
+ [35]
+Characteristic First stage Second stage Payload fairing
+ Height[35] 42.6 m (140 ft) 12.6 m (41 ft) 13.2 m (43 ft)
+ Diameter[35] 3.7 m (12 ft) 3.7 m (12 ft) 5.2 m (17 ft)
+ Empty mass[b][35] 22,200 kg (48,900 lb) 4,000 kg (8,800 lb) 1,700 kg
+ (3,700 lb)
+ Gross mass[c] 433,100 kg (954,800 lb) 111,500 kg (245,800 lb) —
+ Structure type LOX tank: monocoque
+ Fuel tank: skin and stringer
+ LOX tank: monocoque
+ Fuel tank: skin and stringer
+ Monocoque
+ halves
+ Structure material Aluminum lithium skin; aluminum domes Carbon fiber
+ Engines 9 × Merlin 1D 1 × Merlin 1D Vacuum
+ —
+ Engine type Liquid, gas-generator
+ Fuel Kerosene (RP-1)
+ Oxidizer Subcooled liquid oxygen (LOX) Liquid oxygen (LOX)
+ LOX tank capacity[35] 287,400 kg (633,600 lb) 75,200 kg (165,800 lb)
+ RP-1 tank capacity[35] 123,500 kg (272,300 lb) 32,300 kg (71,200 lb)
+ Engine nozzle Gimbaled, 16:1 expansion Gimbaled, 165:1 expansion
+ Total thrust [4] 845.2 kN x 9 (7,607 kN (1,710,000 lbf)) 934 kN x 1 (934 kN
+ (210,000 lbf))
+ Propellant feed
+ system Turbopump
+ Throttle capability[13] 845–482 kN (190,000–108,300 lbf) per
+ engine[36]
+ 930–360 kN (210,000
+81,000 lbf) per engine
+ Restart capability Yes (only 3 engines for
+ boostback/reentry/landing burns)
+ Yes, dual redundant TEA
+TEB
+ pyrophoric igniters
+ Tank pressurization Heated helium
+ Ascent attitude
+ control
+ (pitch, yaw)
+ Gimbaled engines Gimbaled engine and
+ nitrogen gas thrusters
+ Ascent attitude
+ control
+ (roll)
+ Gimbaled engines Nitrogen gas thrusters
+ Coast/descent
+ attitude control Nitrogen gas thrusters and grid fins Nitrogen gas thrusters Nitrogen gas
+ thrusters
+ Shutdown process Commanded —
+ Stage separation
+ system Pneumatic — Pneumatic
+ The Falcon 9 Full Thrust uses a 4.5 meter long[35] interstage which is longer and stronger than the
+ Falcon 9 v1.1 interstage. It is a "composite structure consisting of an aluminum honeycomb core
+ surrounded by a carbon fiber face sheet plies".[13] The overall length of the vehicle at launch is 70
+ meters, and the total fueled mass is 549,000 kg.[35] The aluminium-lithium alloy used is 2195
+T8.[37]
+ The Falcon 9 Full Thrust upgraded vehicle "includes first-stage recovery systems, to allow SpaceX
+ to return the first stage to the launch site after completion of primary mission requirements. These
+ systems include four deployable landing legs, which are locked against the first-stage tank during
+ascent. Excess propellant reserved for Falcon 9 first-stage recovery operations will be diverted for
+ use on the primary mission objective, if required, ensuring sufficient performance margins for
+ successful missions".
+ [13] The nominal payload capacity to a geostationary transfer orbit is 5,500
+ kilograms (12,100 lb) with the first-stage recovery (the price per launch is US$62 million), versus
+ 8,300 kilograms (18,300 lb) with an expendable first-stage.
+ [35]
+ Development history
+ Development
+ As early as March 2014, SpaceX pricing and payload
+ specifications published for the 
+expendable 
+Falcon 9 v1.1
+ rocket actually included about 30 percent more
+ performance than the published price list indicated. At that
+ time, the additional performance was reserved for SpaceX
+ to conduct 
+reusability testing with the Falcon 9 v1.1 while
+ still achieving the specified payloads for customers. Many
+ engineering changes to support reusability and recovery of
+ the first stage had been made on this earlier v1.1 version.
+ SpaceX indicated they had room to increase the payload
+ performance for the Falcon 9 Full Thrust, or decrease
+ launch price, or both.
+ [38]
+ In 2015, SpaceX announced a number of modifications to
+ the previous version Falcon 9 v1.1 
+launch vehicle. The new
+ rocket was known internally for a while as Falcon 9 v1.1
+ Full Thrust,
+ [18] but was also known under a variety of
+ names including Falcon 9 v1.2,
+ [39] Enhanced Falcon 9,
+ Full-Performance Falcon 9,
+ [14] Upgraded Falcon 9,
+ [40]
+ and Falcon 9 Upgrade.
+ [19]
+ Falcon 9 Full Thrust rocket with the
+ SpaceX CRS-8 
+Dragon spacecraft on the
+ launch pad in April 2016
+ [41] Since the first flight of the
+ "full thrust upgrade", SpaceX has been referring to this version as just Falcon 9.
+ [42]
+ SpaceX President 
+Gwynne Shotwell explained in March 2015 that the new design would result in
+ streamlined production as well as improved performance:
+ [15]
+ So, we got the higher thrust engines, finished development on that, we're in
+ [qualification testing]. What we're also doing is modifying the structure a little bit. I
+ want to be building only two versions, or two cores in my factory, any more than that
+ would not be great from a customer perspective. It's about a 30% increase in
+ performance, maybe a little more. What it does is it allows us to land the first stage for
+ GTO missions on the 
+drone ship.
+ [14]
+ According to a SpaceX statement in May 2015, Falcon 9 Full Thrust would likely not require a
+ recertification to launch for United States government contracts. Shotwell stated that "It is an
+ iterative process [with the agencies]" and that "It will become quicker and quicker to certify new
+ versions of the vehicle."
+ [43] The 
+be used on 
+US Air Force certified the upgraded version of the launch vehicle to
+ US military launches in January 2016, based on the one successful launch to date and
+[44]
+ the demonstrated "capability to design, produce, qualify, and deliver a new launch system and
+ provide the mission assurance support required to deliver NSS (national security space) satellites
+ to orbit".
+ Testing
+ The upgraded first stage began acceptance testing at SpaceX's McGregor facility in September
+ 2015. The first of two static fire tests was completed on 21 September 2015 and included the
+ subcooled propellant and the improved Merlin 1D engines.
+ [45] The rocket reached full throttle
+ during the static fire and was scheduled for launch no earlier than 17 November 2015.
+ Maiden flight
+ [46]
+ SES S.A., a satellite owner and operator, announced plans in February 2015 to launch its 
+satellite on the first flight of the Falcon 9 Full Thrust.
+ SES-9 on the 
+SES-9
+ [47] In the event, SpaceX elected to launch
+ second flight of the Falcon 9 Full Thrust and to launch 
+constellation on the 
+Orbcomm 
+OG2's second
+ first flight. As Chris Bergin of NASASpaceFlight explained, SES-9 required a
+ more complicated second-stage burn profile involving one restart of the second-stage engine, while
+ the Orbcomm mission would "allow for the Second Stage to conduct additional testing ahead of the
+ more taxing SES-9 mission."
+ [48]
+ Falcon 9 Full Thrust completed its maiden flight on 22 December 2015, carrying an 
+satellite payload to orbit and landing the rocket's first stage intact at SpaceX's 
+Orbcomm 11
+Landing Zone 1 at
+ Cape Canaveral.
+ [40] The second mission, 
+Launch history
+ SES-9, occurred on 4 M
+*************************************************
+FACON9
+Table 1-1: Falcon 9 safety features 
+Design/Operations Feature 
+Safety Benefit 
+Designed to NASA human-rating 
+margins and safety requirements 
+Improves reliability for payloads without crew through 
+increased factors of safety, redundancy and fault mitigation 
+Horizontal manufacturing, processing 
+and integration 
+Reduces work at height during numerous manufacturing, 
+processing and integration procedures, and eliminates many 
+overhead operations 
+All-liquid propulsion architecture; fuel 
+and oxidizer are stored separately on 
+the ground and in the vehicle. 
+Propellant is not loaded into the 
+vehicle until the vehicle is erected for 
+launch 
+Significantly improves safety by eliminating hazardous 
+ground handling operations required for systems that use 
+solid propellant cores or boosters 
+Rocket-grade kerosene and liquid 
+oxygen as primary propellants 
+Reduces health hazards to processing, integration, and 
+recovery personnel compared to systems that use high 
+toxicity primary propellants 
+Two-stage architecture 
+Reduced overall complexity reduces risk associated with 
+fueling and operation of additional stages 
+Non-explosive, pneumatic release and 
+separation systems 
+Zero-debris separation systems significantly reduce orbital 
+debris signature, can be repeatedly tested during the 
+manufacturing process, and eliminate hazardous 
+pyrotechnic devices 
+Regular hardware-in-the-loop (HITL) 
+software testing 
+Complete verification of entire mission profile prior to flight 
+1.5 Falcon Reliability 
+A study1 by The Aerospace Corporation found that 91% of known launch vehicle failures in the previous 
+two decades can be attributed to three causes: engine, avionics and stage separation failures. With this in 
+mind, SpaceX incorporated key engine, avionics and staging reliability features for high reliability at the 
+architectural level of Falcon launch vehicles. Significant contributors to reliability include: 
+ Engines  
+The Merlin engine that powers the Falcon family of launch vehicles is the only new hydrocarbon 
+engine to be successfully developed and flown in the U.S. in the past 40 years. It has the highest 
+thrust-weight of any boost engine ever made. The liquid-propellant Merlin powers the Falcon 
+propulsion system. The engine features a reliable turbopump design with a single shaft for the 
+liquid oxygen pump, the fuel pump and the turbine. The engine uses a gas generator cycle instead 
+of the more complex staged combustion cycle. The regeneratively cooled nozzle and thrust 
+1Chang, I-Shih. “Space Launch Vehicle Reliability,” Aerospace Corporation Publication (2001). 
+Revision 2 
+7 
+© 2015 Space Exploration Technologies Corp. All rights reserved. 
+Falcon User’s Guide   
+chamber use a milled copper alloy liner that provides large heat flux margins. A pintle injector 
+provides inherent combustion stability. 
+Engine failure modes are minimized by eliminating separate subsystems where appropriate. For 
+example, the first-stage thrust vector control system pulls from the high-pressure rocket-grade 
+kerosene system, rather than using a separate hydraulic fluid and pressurization system. Using 
+fuel as the hydraulic fluid eliminates potential failures associated with a separate hydraulic 
+system and with the depletion of hydraulic fluid. 
+The high-volume engine production required to fly 10 Merlin engines (Falcon 9) or 28 engines 
+(Falcon Heavy) on every launch results in high product quality and repeatability through process 
+control and continuous production. Flying several engines on each mission also quickly builds 
+substantial engineering data and flight heritage. 
+During Falcon launch operations, the first stage is held on the ground after engine ignition while 
+automated monitors confirm nominal engine operation. An autonomous safe shutdown is 
+performed if any off-nominal condition is detected. Hold-on-pad operations, enabled by the 
+launch vehicle’s all-liquid propulsion architecture and autonomous countdown sequence, 
+significantly reduce risks associated with engine start-up failures and underperformance. 
+By employing multiple first-stage engines, SpaceX offers the world’s first evolved expendable 
+launch vehicle (EELV)-class system with engine-out capability through much of first-stage flight. 
+System-level vehicle management software controls the shutdown of engines in response to off
+nominal engine indications. Although the likelihood of catastrophic engine failure is low, and 
+failing engines are designed to be shut down prior to a catastrophic failure, each engine is housed 
+within its own metal bay to isolate it from neighboring engines. 
+The second-stage Merlin Vacuum engine uses a fixed, non-deploying expansion nozzle, 
+eliminating potential failure modes in nozzle extension. 
+ Avionics 
+Falcon launch vehicle avionics, and guidance, navigation and control systems use a fault-tolerant 
+architecture that provides full vehicle single-fault tolerance and uses modern computing and 
+networking technology to improve performance and reliability. The fault tolerance is achieved 
+either by isolating compartments within avionics boxes or by using triplicated units of specific 
+components. Both the first and second stages host their own multiple redundant lithium-ion 
+batteries to minimize the complexity of the electrical interface. 
+ Staging Architecture and Design 
+The two-stage Falcon architecture was selected to minimize the number of stage separation 
+events, eliminating potential failure modes associated with third- and fourth-stage separations, as 
+well as potential engine deployment and ignition failure modes in the third and fourth stages.  
+Revision 2 
+8 
+© 2015 Space Exploration Technologies Corp. All rights reserved. 
+Falcon User’s Guide   
+The Falcon second-stage restraint, release and separation systems use pneumatic devices that 
+provide low-shock release and positive force separation over a comparatively long stroke. The 
+pneumatic system allows for acceptance and functional testing of the actual flight hardware, 
+which is not possible with a traditional explosives-based separation system. 
+For each Falcon launch vehicle, SpaceX performs an exhaustive series of tests from the component to the 
+vehicle system level. The test program includes component-level flight acceptance and workmanship 
+testing, structures load and proof testing, flight system and propulsion subsystem-level testing, full first- 
+and second-stage testing up to full system testing (including first- and second-stage static fire testing), as 
+well as a static fire test on the launch pad. In addition to testing environmental extremes (plus margin), all 
+hardware is tested to account for off-nominal conditions. For example, stage separation tests are 
+performed for off-nominal cases with respect to geometrical misalignment, anomalous timing and 
+sequencing. 
+The Falcon first stage is designed to survive atmospheric entry and to be recovered, handling both the 
+rigors of the ascent portion of the mission and the loads of the recovery portion. Stage recoverability also 
+provides a unique opportunity to examine recovered hardware and assess design and material selection in 
+order to continually improve Falcon 9.
+********************************************************
+2. 
+VEHICLES 
+2.1 Falcon 9 Vehicle Overview 
+Falcon 9 (Figure 2-1) is a two-stage launch vehicle powered by 
+liquid oxygen (LOX) and rocket-grade kerosene (RP-1). The 
+vehicle is designed, built and operated by SpaceX. Falcon 9 can 
+be flown with a fairing or with a SpaceX Dragon spacecraft. All 
+first- and second-stage vehicle systems are the same in the two 
+configurations; only the payload interface to the second stage 
+changes between the fairing and Dragon configurations.  
+As of summer 2015, Falcon 9 is upgraded from its previous v1.1 
+configuration (flown from 2013 – summer 2015). Unused margin 
+on the engines has been released to increase thrust. The airframe 
+and thrust structures have been reinforced to accommodate the 
+additional thrust and increase reliability. The upgraded vehicle 
+also includes first-stage recovery systems, to allow SpaceX to 
+return the first stage to the launch site after completion of 
+primary mission requirements. These systems include four 
+deployable landing legs, which are locked against the first-stage 
+tank during ascent. Excess propellant reserved for Falcon 9 first
+stage recovery operations will be diverted for use on the primary 
+mission objective, if required, ensuring sufficient performance 
+margins for successful missions. 
+Descriptions and performance information in this user’s guide 
+are for the Falcon 9 fairing configuration; please contact SpaceX 
+for information about Dragon launch capabilities. Table 2-1 
+provides additional details on Falcon 9 dimensions and design 
+characteristics. 
+2.2 Structure and Propulsion 
+The first-stage propellant tank walls of the Falcon vehicles are 
+made from an aluminum lithium alloy. Tanks are manufactured 
+using friction stir welding—the highest strength and most 
+reliable welding technique available.  
+Figure 2-1 Falcon 9 Overview 
+On the first stage of the Falcon 9, an insulated common dome separates the LOX and RP-1 tanks, and an 
+insulated transfer tube carries LOX through the center of the RP-1 tank to the engine section. Four grid 
+fins near the top of the first stage along with four deployable legs are nominally flown at the base of the 
+first stage to support recovery operations. 
+Revision 2 
+10 
+© 2015 Space Exploration Technologies Corp. All rights reserved. 
+Falcon User’s Guide   
+Nine SpaceX Merlin engines power the Falcon 9 first stage with up to 756 kN (170,000 lbf) thrust per 
+engine at sea level, for a total thrust of 6,804 kN (1.53 million lbf) at liftoff. The first-stage engines are 
+configured in a circular pattern, with eight engines surrounding a center engine.  
+After engine start, Falcon vehicles are held down until all vehicle systems are verified as functioning 
+normally before release for liftoff. 
+The Falcon vehicles’ interstage, which connects the first and second stages, is a composite structure 
+consisting of an aluminum honeycomb core surrounded by carbon fiber face sheet plies. The interstage is 
+fixed to the forward end of the first-stage tank. The stage separation system is located at the forward end 
+of the interstage and interfaces to the second-stage.  
+The second-stage tank for Falcon vehicles is a shorter version of the first-stage tank and uses most of the 
+same materials, construction, tooling and manufacturing techniques as the first-stage tank. A single 
+Merlin Vacuum (MVac) engine powers the second stage, using a fixed 165:1 expansion nozzle. For added 
+reliability of restart, the engine contains dual redundant triethylaluminum-triethylborane (TEA-TEB) 
+pyrophoric igniters. In addition, the second stage contains a cold nitrogen gas (GN2) attitude control 
+system (ACS) for pointing and roll control. The GN2 ACS is more reliable and produces less 
+contamination than a propellant-based reaction control system. 
+Table 2-1: Falcon 9 dimensions and characteristics 
+Characteristic 
+First Stage 
+Structure 
+Second Stage 
+Height 
+Diameter 
+70 m (229 ft) (including both stages, interstage and fairing) 
+3.66 m (12 ft) 
+Type 
+3.66 m (12 ft) 
+LOX tank – monococque; 
+Fuel tank – skin and stringer 
+Material 
+LOX tank – monococque 
+Fuel tanks – skin and stringer 
+Aluminum lithium skin; aluminum domes 
+Propulsion 
+Engine type 
+Liquid, gas generator 
+Engine designation 
+Liquid, gas generator 
+Merlin 1D (M1D) 
+Engine designer 
+MVac 
+SpaceX 
+Engine manufacturer 
+SpaceX 
+SpaceX 
+Number of engines 
+SpaceX 
+9 
+Propellant 
+1 
+Liquid oxygen/kerosene (RP-1) 
+Thrust (stage total) 
+Liquid oxygen/kerosene (RP-1) 
+6,804 kN (sea level) (1,530,000 lbf) 
+Propellant feed system 
+934 kN (Vacuum) (210,000 lbf) 
+Turbopump 
+Throttle capability 
+Turbopump 
+Yes (170,000 lbf to 119,000 lbf sea 
+level) 
+Restart capability 
+Yes 
+Yes (210,000 lbf to 81,000 lbf) 
+Tank pressurization 
+Yes 
+Heated helium 
+Ascent attitude control 
+Heated helium 
+Pitch, yaw 
+Gimbaled engines 
+Gimbaled engine/nitrogen gas 
+thrusters 
+Revision 2 
+11 
+© 2015 Space Exploration Technologies Corp. All rights reserved. 
+Falcon User’s Guide   
+Roll 
+Gimbaled engines 
+Coast attitude control 
+Nitrogen gas thrusters 
+Nitrogen gas thrusters  
+(recovery only) 
+Operations 
+Nitrogen gas thrusters 
+Shutdown process 
+Commanded shutdown 
+Stage separation system 
+Commanded shutdown 
+Pneumatically actuated  
+separation mechanism 
+N/A 
+2.3 Retention, Release and Separation Systems 
+The first and second stages are mated by mechanical latches at three points between the top of the 
+interstage and the base of the second-stage fuel tank. After the first-stage engine shut down, a high
+pressure helium circuit is used to release the latches via redundant actuators. The helium system also 
+preloads three pneumatic pushers, which provide positive-force stage separation after latch release. For 
+added reliability, a redundant center pusher attached to the first stage is designed to dramatically decrease 
+the probability of re-contact between the stages following separation. 
+The two halves of the fairing are fastened by mechanical latches along the fairing vertical seam. To 
+deploy the fairing, a high-pressure helium circuit releases the latches, and four pneumatic pushers 
+facilitate positive-force deployment of the two halves. The use of all-pneumatic separation systems 
+provides a benign shock environment, allows acceptance and preflight testing of the actual separation 
+system hardware, and minimizes debris created during the separation event. 
+2.4 Avionics, and Guidance, Navigation and Control 
+Falcon avionics feature a three-string, fault-tolerant architecture that has been designed to human-rating 
+requirements. Avionics include flight computers, Global Positioning System (GPS) receivers, inertial 
+measurement units, SpaceX-designed and manufactured controllers for vehicle control (propulsion, valve, 
+pressurization, separation and payload interfaces), a network backbone, S-band transmitters and a C-band 
+transponder for range safety tracking. The S-band transmitters are used to transmit telemetry and video to 
+the ground, from both the first and second stages, even after stage separation. 
+Our launch vehicles are equipped with a flight termination system to limit the potential damage caused by 
+a launch vehicle malfunction. The system terminates the flight of the vehicle either when commanded by 
+the range mission flight control officer or automatically in the case of premature stage separation. 
+2.5 Coordinate Frame 
+Falcon vehicles use a right-hand X-Y-Z coordinate frame centered 440.69 cm (173.5 in.) aft of the first
+stage radial engine gimbal, with +X aligned with the vehicle long axis and +Z opposite the transporter
+erector strongback (Figure 2-2). X is the roll axis, Y is the pitch axis, and Z is the yaw axis. Additional 
+coordinate frames may be defined with reference to the payload interface (Section 5.1.1) for specific 
+missions. 
+********************************************************
+3.3 Mass Properties 
+The payload attach fitting (PAF) converts the 
+diameter of the launch vehicle to the standard 
+1575-mm (62.01 in.) bolted interface (Figure 
+3-1). SpaceX uses one of two PAFs on the 
+launch vehicle, based on payload mass. The light 
+PAF can accommodate payloads weighing up to 
+3,453 kg (7,612 lb), while the heavy PAF can 
+accommodate up to 10,886 kg (24,000 lb). 
+Payloads must comply with the mass properties 
+limitations given in Figure 3-2. Payload mass 
+properties should be assessed for all items 
+forward of the payload attach fitting 1575-mm 
+(62.01 in.) bolted interface (Section 5.1.1), including any mission-unique payload adapters and separation 
+systems. Mass property capabilities may be further constrained by mission-unique payload adapters, 
+dispensers or separation systems. 
+Figure 3-1: SpaceX payload attach fitting 
+700
+ 600
+ 500
+ CG Height [cm] 
+400
+ 300
+ 200
+ 100
+ 0
+ Light PAF
+ Heavy PAF
+ EELV, 62 in interface (for reference)
+ 0
+ 2,000
+ 4,000
+ 6,000
+ Payload Mass [kg] 
+8,000
+ 10,000
+ 12,000
+ Figure 3-2: Maximum allowable center-of-gravity height above the 1575-mm plane 
+SpaceX requires that customers verify the mass properties of their system through measurement before 
+shipping it to the launch site, and the company may request insight into relevant analyses and testing 
+performed. Falcon 9 may be able to accommodate payloads with characteristics outside the limitations 
+indicated in this section. Please contact SpaceX with your mission-unique requirements. 
+Revision 2 
+15 
+© 2015 Space Exploration Technologies Corp. All rights reserved. 
+Falcon User’s Guide   
+3.4 Launch Windows 
+Falcon launch vehicles can launch any day of the year, at any time of day, subject to environmental 
+limitations and constraints as well as range availability and readiness. Launch window times and 
+durations are developed specifically for each mission; accommodating customer requirements for launch 
+windows longer than 4 hours or shorter than 1 hour is considered a nonstandard service. Customers 
+benefit from recycle operations, maximizing launch opportunities within the launch window (Section 
+8.5.6). 
+3.5 Flight Attitude 
+Falcon 9 can provide payload pointing and roll control during long-duration coast phases for sun 
+avoidance and thermal control. If requested, the Falcon 9 second stage will point the X-axis of the launch 
+vehicle to a customer-specified attitude and perform a passive thermal control roll of up to ±1.5 deg/sec 
+around the launch vehicle X-axis, held to a local vertical/local horizontal (LVLH) roll attitude accuracy of 
+±5 deg. 
+3.6 Orbit Insertion Accuracy 
+Falcon 9 is designed to achieve the orbit insertion accuracies listed in Table 3-2. Accuracies shown are for 
+osculating elements at orbit insertion. Improved orbit insertion accuracy can be provided as a nonstandard 
+service. 
+Table 3-2: Orbit insertion accuracy 
+Mission Type 
+Perigee 
+Apogee 
+Inclination 
+RAAN2 
+LEO direct inject 
+(200 km x 360 km) 
+Arg. Perigee 
+± 10 km 3σ ± 15 km 3σ ± 0.1 deg 3σ ± 0.1 deg 3σ 
+N/A 
+Geosynchronous 
+transfer orbit (185 
+km x 35,786 km) 
+± 10 km 3σ 
+± 500 km 3σ 
+± 0.1 deg 3σ 
+± 0.1 deg 3σ 
+± 0.3 deg 3σ 
+3.7 Separation Attitude and Accuracy 
+Falcon 9 offers 3-axis attitude control or spin-stabilized separation as a standard service. For inertial 
+separation, Falcon 9 will point the second stage and payload to the desired LVLH attitude and minimize 
+attitude rates. For spin-stabilized separation, Falcon 9 will point the second stage and payload to the 
+desired LVLH attitude and initiate a spin about the launch vehicle X-axis at a customer-specified rate, up 
+to 30 deg/sec (5 RPM) dependent upon payload mass properties. Standard pre-separation attitude and rate 
+accuracies are developed as a mission-specific standard service. More information about separation 
+attitude and rate accuracy is available from SpaceX upon request. 
+2Right ascension of ascending node (RAAN) accuracy is shown here accounting for launch vehicle insertion accuracy only, and 
+it assumes an instantaneous launch window, which is a nonstandard service. For a standard-service, 1-hour launch window, 
+RAAN accuracy will be dominated by launch time uncertainty within the window, and it will be of order ± 7.5 degrees (or ± 30 
+minutes, if expressed in terms of local time of ascending node (LTAN)). 
+Revision 2 
+16 
+© 2015 Space Exploration Technologies Corp. All rights reserved. 
+Falcon User’s Guide   
+3.8 Multiple Payloads 
+Falcon 9 can launch multiple satellites on a single mission, with the customer responsible for the 
+integration of the multiple payloads. As a liquid-propellant launch vehicle with restart capability, Falcon 9 
+also provides the flexibility to deploy each satellite into a different orbit, performance allowing.  
+Falcon 9 can accommodate a broad range of dispenser systems including multi-payload systems, dual
+payload attach fittings and mission-unique adapters. SpaceX can develop and provide such adapters and 
+dispensers if desired, as a nonstandard service, or can integrate third-party systems. Please contact 
+SpaceX with your mission-unique requirements. 
+3.9 Secondary Payloads 
+SpaceX typically reserves the right to manifest secondary payloads aboard Falcon missions on a non
+interference basis. Secondary payloads may be manifested on a variety of secondary payload adapters 
+including an Evolved Expendable Launch Vehicle (EELV) Secondary Payload Adapter (ESPA) ring, a 
+SpaceX-developed Surfboard, or other mission-unique secondary deployment structures. 
+Please contact SpaceX or a secondary payload broker for information regarding flight opportunities, 
+interface requirements and pricing for secondary payloads. 
+Revision 2 
+17 
+© 2015 Space Exploration Technologies Corp. All rights reserved. 
+Falcon User’s Guide   
+4. 
+ENVIRONMENTS 
+Falcon 9 has been designed to provide as benign a payload environment as possible, via the use of all
+liquid propulsion, a single staging event, deeply throttleable engines and pneumatic separation systems. 
+The environments presented below reflect typical mission levels for a Falcon 9; mission-specific analyses 
+will be performed and documented in an interface control document for each contracted mission. 
+4.1 Transportation Environments 
+SpaceX recommends using the quasi-static limit load factors provided by NASA-HDBK-7005 (Table 
+4-1). SpaceX has quantified the maximum predicted environments experienced by the payload during 
+transportation. Transportation will be accomplished by two wheeled vehicles: a payload transporter from 
+the payload processing facility to the hangar, and the launch vehicle transporter-erector from the hangar to 
+the launch pad. It is expected that transportation environments will be enveloped by the flight 
+environments in Section 4.3. 
+Table 4-1: Recommended quasi-static load factors for transportation 
+Transportation Method 
+Vertical  
+Load (g) 
+Slow-moving dolly (expected ground transport loads) 
+Longitudinal 
+Load (g) 
+Lateral  
+Load (g) 
+± 1.0 
+4.2 Temperature, Humidity and Cleanliness 
+± 0.75 
+± 2.0 
+The standard service temperature, humidity and cleanliness environments during various processing 
+phases are provided in Table 4-2. SpaceX can accommodate environments outside the standard service, 
+e.g. ISO Class 7 (Class 10,000) cleanroom cleanliness. Please contact SpaceX for details.  
+Conditioned air will be disconnected for a short duration during rollout to the pad. Spacecraft 
+environmental temperatures will be maintained above the dew point of the supply air at all times. A 
+nitrogen purge is available as a nonstandard service. The payload attach fitting (PAF) and fairing surface 
+are cleaned to Visibly Clean-Highly Sensitive, achieving a residue level between A/5 and A/2 and 
+particulate between 300-500 micron, per IEST-STD-CC1246D. 
+Table 4-2: Temperature and cleanliness environments 
+Phase 
+Control System 
+Spacecraft 
+processing 
+Payload 
+processing 
+facility heating, 
+ventilation and 
+air conditioning 
+(HVAC) 
+Approx. 
+Duration 
+3 weeks 
+Temp. °C (°F) 
+21 ± 3 (70 ± 5) 
+Humidity 
+50% ± 15% 
+Cleanliness 
+(class) 
+100,000 
+Flow 
+Rate 
+(cfm) 
+N/A 
+Revision 2 
+18 
+© 2015 Space Exploration Technologies Corp. All rights reserved. 
+Falcon User’s Guide   
+Revision 2 © 2015 Space Exploration Technologies Corp. All rights reserved. 19 
+Propellant 
+conditioning 
+Facility heating, 
+ventilation and 
+air conditioning 
+(HVAC) 
+3 days 21 ± 3 (70 ± 5) 50% ± 15% 100,000 
+(Class 8) 
+N/A 
+Spacecraft 
+propellant 
+loading 
+Facility heating, 
+ventilation and 
+air conditioning 
+(HVAC) 
+Mission
+Unique 
+21 ± 3 (70 ± 5) 50% ± 15% 100,000 
+(Class 8) 
+N/A 
+Transport to 
+hangar 
+(CCAFS only) 
+Transport trailer 
+unit 
+<2 hrs 21 ± 3 (70 ± 5) 0%-60% 10,000 
+(Class 7) 
+(supply air 
+cleanliness) 
+1,000 
+Encapsulated 
+in hangar  
+Ducted supply 
+from hangar 
+facility HVAC 
+1 week 21 ±  3 (70 ± 5) 50% ± 15% 10,000 
+(Class 7) 
+(supply air 
+cleanliness) 
+1,000 
+Encapsulated 
+roll-out to 
+pad 
+None 30-60 min N/A N/A 10,000 
+(Class 7) 
+ 
+Encapsulated 
+on pad 
+(vertical or 
+horizontal) 
+Pad air 
+conditioning 
+1 day VAFB: 
+Selectable 15 to 
+35 (59 to 95) 
+CCAFS: 
+Selectable 16 to 
+30 (61 to 86) 
+Selectable: 
+0%  to 65% 
+10,000 
+(Class 7) 
+(supply air 
+cleanliness) 
+1,500 
+4.3 Flight Environments 
+The maximum predicted environments the payload will experience from liftoff through separation are 
+described in the sections below. Falcon vehicles may be able to accommodate payloads with 
+characteristics outside the limitations indicated in these sections and may also be able to provide 
+environments lower than those indicated in these sections. Please contact SpaceX with your mission
+unique requirements. 
+4.3.1 Loads 
+During flight, the payload will experience a range of axial and lateral accelerations. Axial acceleration is 
+driven by vehicle thrust and drag profiles; lateral acceleration is primarily driven by wind gusts, engine 
+gimbal maneuvers, first-stage engine shutdown and other short-duration events. 
+ 
+Both the first- and second-stage engines may be throttled to help maintain launch vehicle and payload 
+steady state acceleration limits.
+*********************************************************
+Austics:4.3.1.1 Loads—Standard Payload Mass 
+The design load factors provided here are expected to be conservative for payloads with the following 
+basic characteristics: a fundamental bending mode greater than 10 Hz, a fundamental axial mode greater 
+than 25 Hz, a maximum center of gravity (CG) height of 180 in, maximum lateral CG offset of 5 in, and a 
+mass between 4,000 and 20,000 lb (1,810 – 9,070 kg). Payloads outside of this frequency and mass range 
+can be accommodated. Please contact SpaceX for more details.  
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7
+ Axial Acceleration (g)-1-2-3
+ 0.5, 6
+ 0.5, 4
+ 0.5, -1.5
+ 0.5, -2-3-2-1
+ 0
+ 1
+ Lateral Acceleration (g)
+ 2, 3.5
+ 2, -1.5
+ 2
+ 3
+ Figure 4-1: Falcon 9 payload design load factors for “standard” mass (over 4,000 lb) 
+4.3.1.2 Loads—Light Payload Mass 
+Figure 4-2 shows the design load factors for lighter payloads (less than 4,000 lb). However, for ultra-light 
+payloads (~2,000 lb or less), coordination with SpaceX mission management is required, since these load 
+factors may not be adequate to design the payload. Actual spacecraft loads, accelerations and deflections 
+are a function of both the launch vehicle and payload structural dynamic properties and can only be 
+accurately determined via a coupled loads analysis. 
+Revision 2 
+20 
+© 2015 Space Exploration Technologies Corp. All rights reserved. 
+Falcon User’s Guide   
+F9 Design Load Factors
+ 10
+ Axial Acceleration (g)
+ 0 
+2 
+4 
+6 
+8-2-4-6
+ F9 Design Load Factors, Payloads < 4,000 lb
+ 2, 8.5
+ 2, 4
+ 2, -1.5
+ 2, -4-4-3-2-1
+ 0
+ 1
+ Lateral Acceleration (g)
+ 2
+ 3, 4
+ 3, -1.5
+ 3
+ Figure 4-2: Falcon 9 payload design load factors, Light mass (under 4,000 lb) 
+4.3.2 Sine Vibration 
+4
+ Maximum predicted Falcon 9 sinusoidal vibration environments are shown in Figure 4-3 and Figure 4-4. 
+These environments represent the vibration levels at the top of the payload attach fitting for Q=20 through 
+Q=50, and envelope all stages of flight.  Since SpaceX accommodates a variety of payloads, results of 
+coupled loads analysis will be used to modify these levels, if necessary, to reflect the levels at the payload 
+interface. 
+Revision 2 
+21 
+© 2015 Space Exploration Technologies Corp. All rights reserved. 
+Falcon User’s Guide   
+Revision 2 © 2015 Space Exploration Technologies Corp. All rights reserved. 22 
+ 
+Figure 4-3: Falcon 9 maximum axial equivalent sine environment 
+0
+ 0.1
+ 0.2
+ 0.3
+ 0.4
+ 0.5
+ 0.6
+ 0.7
+ 0.8
+ 0.9
+ 1
+ 0 10 20 30 40 50 60 70 80 90 100
+ Acceleration (g)
+ Frequency (Hz)
+ Frequency (Hz)
+ 5
+ 20
+ 30
+ 30
+ 75
+ 85
+ 100
+ Acceleration (g)
+ 0.5
+ 0.8
+ 0.8
+ 0.6
+ 0.6
+ 0.9
+ 0.9
+ Applicable for Q20
+Falcon User’s Guide   
+Revision 2 © 2015 Space Exploration Technologies Corp. All rights reserved. 23 
+ 
+Figure 4-4: Falcon 9 maximum lateral equivalent sine environment 
+4.3.3 Acoustic 
+During flight, the payload will be subjected to a varying acoustic environment. Levels are highest near 
+liftoff and during transonic flight, due to aerodynamic excitation. The acoustic environment is shown by 
+both full and third-octave curves. Figure 4-5 and Table 4-3 provide the third-octave maximum predicted 
+acoustic environment for typical payloads, while Figure 4-6 and Table 4-4 provide the full-octave 
+maximum predicted acoustic environment. Predicted acoustic levels for a specific mission will depend on 
+the payload’s size and volume with smaller payloads generally having lower acoustic levels. Margin for 
+qualification testing is not included in the curves below.
+******************************************************
+8.4 Joint Operations and Integration  
+Joint operations begin ten days before launch. Payload attachment to the payload attach fitting and fairing 
+encapsulation are performed by SpaceX within the payload processing facility (Figure 8-4). Fairing 
+encapsulation is performed in the vertical orientation. Transportation is performed in the vertical 
+orientation, and environmental control is provided throughout the transportation activity. Once at the 
+launch vehicle integration hangar, the encapsulated assembly is rotated to horizontal and mated with the 
+launch vehicle already positioned on its transporter-erector. 
+Figure 8-4: Payload encapsulation and integration sequence 
+Revision 2 
+57 
+© 2015 Space Exploration Technologies Corp. All rights reserved. 
+Falcon User’s Guide   
+Once the encapsulated assembly is mated to the launch vehicle, the hangar facility HVAC system is 
+connected via a fairing air conditioning duct to maintain environmental control inside the fairing. The 
+payload is then reconnected to electrical ground support equipment (if required) and electrical interfaces 
+are verified. At this point, the integrated launch vehicle is ready for rollout and launch (Figure 8-5). 
+Figure 8-5: Integrated Falcon 9 on the transporter-erector within the integration hangar 
+8.5 Launch Operations 
+8.5.1 Organization 
+The main decision-making roles and responsibilities for launch operations are shown in Table 8-2. Note 
+that this list is not inclusive of all stations participating in the launch, but, rather, is limited to those that 
+have direct input in the decision-making process. 
+Table 8-2: Launch control organization 
+Position 
+Abbrev. 
+Mission director 
+Organization 
+MD 
+SpaceX (standard) 
+Customer (nonstandard) 
+Mission manager 
+Launch director 
+PM 
+LD 
+SpaceX (mission manager) 
+SpaceX 
+Missile flight control officer, or 
+flight safety officer 
+MFCO, or 
+FSO 
+Operations safety manager, or 
+ground safety officer 
+Launch Range 
+OSM, or 
+GSO 
+Launch Range 
+The launch control organization and its lines of decision-making are shown in Figure 8-6. The details of 
+the launch control organization are somewhat dependent on the mission and customer. The payload 
+manager, or a payload manager representative, will sit at the payload station in the SpaceX launch control 
+center alongside the SpaceX mission manager. 
+Revision 2 
+58 
+© 2015 Space Exploration Technologies Corp. All rights reserved. 
+Falcon User’s Guide   
+Figure 8-6: Launch control organization 
+8.5.2 Spacecraft Control Center 
+SpaceX provides a spacecraft control center for remote payload command and control operations during 
+the launch countdown. Customer EGSE and spacecraft personnel will be located within the spacecraft 
+control center during launch. The spacecraft control center includes full fiber-optic voice, video and 
+Internet connectivity to the launch site, SpaceX Launch Control (Section 8.5.3), and other range facilities. 
+8.5.3 Launch Control  
+The SpaceX console design is modular, expandable and completely modern (Figure 8-7). SpaceX uses 
+standard computer and display systems with software designed for industrial system control. Consoles 
+also include voice communications capabilities, including voice nets, voice-over Internet protocol (IP) 
+integration with remote sites, and IP phones. Video viewing and control are provided using the video
+over-IP systems.
+*************************************************
+Propelant:
+ TABLE6–5. SelectedDataontheGasPressurizedPropulsionSystemoftheMESSENGER
+ SpaceProbe
+ Designation
+ Leros-1bMain
+ ThrustChamber
+ (M006)
+ MR-106E
+ AttitudeControl
+ Thrusters
+ MR-111C
+ AttitudeControl
+ Thrusters
+ Propellant Hydrazine/N2O4 Hydrazine Hydrazine
+ Numberofunits 1 4 12
+ Thrustchambercooling Fuelfilmcooled
+ andradiation
+ cooled
+ Radiationcooled Radiationcooled
+ Thrust(pernozzle)(lbf) 145 6.9-2.6;Nominal
+ 5lbf
+ 1.2-0.3;nominal
+ 1.0lbf
+ Feedpressure(psia) 300-218psia 350-100 450-50
+ Chamberpressure,
+ nominal(psia)
+ 125nominal 180-65 200-35
+ Vacuumspecificimpulse
+ (lbf-sec/lbm)
+ 318 235-229 229-215
+ Nozzlearearatio 150:1 60:1 74:1
+ Mixtureratio(oxidizer
+ flow/fuelflowmass
+ ratio)
+ 0.85+/–0.02 N/A N/A
+ Minimumburntime(sec) N/A 0.016 0.015
+ Maximumburntime(sec) 2520(singleburn)
+ 20,500
+ (cumulative)
+ 2000(singleburn)
+ 4670(cumulative)
+ 5000(singleburn)
+ Numberofstarts,
+ cumulative
+ 70 >1000 >1500
+ SystemParameters
+ Oxidizermass(lbm) 510
+ Fuelmass(lbm) 805
+ Pressurant(helium)
+ mass(lbm)
+ 5.4
+ Propulsionsystemdry
+ mass(lbm)
+ 180
+ DatafromRefs.6–9,6–10
+ SomeoftheMESSENGERvehiclemaneuversrequireaxialthrust,whichislower
+ thanthatprovidedbytheLVAthruster(145lbfnominal).Thiscanbeachievedby
+ operatingthefourMR-106Ethrusters(nominally5lbfeachforatotalof20lbfof
+ thrust)togetherwiththefourMR-111C(nominally1lbfofthrusteach)inthesame
+ moduleforpitchandyawcontrol.TheMESSENGERrocketpropulsionsystemhas
+ series-redundantgaspressureregulators foreachpropellant andoperatesmostof
+ thetimewithanearlyconstantflowgaspressurefeedsystem;however,forpartsofthe
+ operationitalsooperatesinablow-downpressurizationmode.Thesmallauxiliary
+ fueltankcanberechargedwithhydrazinefromthemainfueltanksduringflight.
+*******************************************************
+ 6.5. TANK PRESSURIZATION
+ As stated earlier, the objective of feed systems is to move propellants under pressure
+ from propellant tanks to thrust chamber(s). The tank pressurization system is that
+ part of the feed system that provides such a propellant expellant gas. See Refs. 6–1,
+ 6–6, 6–7, and 6–10. As was described in Section 6.3, there are two types: (1) in a
+ pressurized gas feed system, a relatively high-pressure gas displaces the propellants
+ from the tanks, and (2) in a pumped feed system (described in the next section) the
+ main energy for feeding the propellants comes from one or more pumps. It requires
+6.5. TANK PRESSURIZATION
+ 213
+ lower gas pressures in the tanks to move the propellants to the pump inlet, and it helps
+ to avoid pump cavitation.
+ There are several sources of pressurizing gas used in tank pressurization systems.
+ 1. High-pressure inert gases stored at ambient temperature are the most common.
+ Typical gases are helium, nitrogen, and air. Table 6–3 shows a comparison of
+ the regulated pressure system (see Fig. 1–3) and the blow-down system (see
+ Fig. 6–6). This is discussed further in this section. When gases expand adia
+batically, their temperature drops.
+ 2. Heated high-pressure inert gases (typically 200 to 800 ∘For93to427 ∘C)
+ reduce the amount of required gas and thus the inert mass of the pressurizing
+ system. Examples are gases heated by a heat exchanger with the warm exhaust
+ from a gas generator or a turbine or with electrical heaters inside the gas tank.
+ 3. Gases created by a chemical reaction using either liquid bipropellants or a
+ monopropellan.
+
+ 1. Sample the signals from significant sensors (e.g., chamber pressure, gas and hardware
+ temperatures, tank pressure, valve position, etc.) at frequent intervals, say once, 10, 100, or
+ 1000 times per second. For parameters that change slowly (e.g., the temperature of the
+ control box), sampling every second or every 5 sec may be adequate, but chamber pressure
+ would be sampled at a high frequency.
+ 2. Keep a record of all the significant signals received and all the signals generated by the
+ computer and sent out as commands or information. Old records have at times been very
+ important.
+ 3. Control and verify the steps and sequence of the engine start. Figure 11–3, and
+ Table 11–4 list typical steps that have to be taken, but do not list the measured parameters
+ that will confirm that the commanded step was implemented. For example, if the igniter is
+ activated, a signal change from a properly located temperature sensor or a radiation sensor
+ could verify that the ignition had indeed happened.
+ 4. Control the shutdown of the engine. For each of the steps listed at the bottom of Table 11–4
+ or in Fig. 11–3 there often has to be a sensing of a pressure change or other parameter
+ change to verify that the commanded shutdown step was taken. An emergency shutdown
+ may be commanded by the controller during development testing, when it senses certain
+ kinds of malfunctions that allow the engine to be shut down safely before a dramatic failure
+ occurs. This emergency shutdown procedure must be done quickly and safely and may be
+ different from a normal shutdown, and must avoid creating a new hazardous condition.
+ 5. Limit the duration of full thrust operation. For example, cutoff is to be initiated just before
+ the vehicle attains the desired mission flight velocity.
+ 6. Safety monitoring and control. Detect combustion instability, overtemperatures in
+ precombustors, gas generators, or TP bearings, violent TP vibration, TP overspeed, or
+ other parameter known to cause rapid and drastic component malfunction that can quickly
+ lead to engine failure. Usually, more than one sensor signal will show such a malfunction.
+ If detected by several sensors, the computer may identify it as a possible failure whose
+ in-flight remedy is well known (and preprogrammed into the computer); then a corrective
+ action or a safe shutdown may be automatically commanded by the control computer. This
+ applies mostly to development engines during ground tests.
+ 7. Analyze key sensor signals for deviation from nominal performance before, during, and
+ after engine operation. Determine whether sensed quantities are outside of predicted limits.
+ If appropriate and feasible, if more than one sensor indicates a possible out-of-limit value,
+ and if the cause and remedy can be predicted (preprogrammed), then the computer can
+ automatically initiate a compensating action. Parts of or combinations of items 6 and 7
+ have been called engine health monitoring systems. They are discussed in Section 11.5.
+ 8. Control propellant tank pressurization. The tank pressure value has to be within an
+ allowable range during engine operation and also during a coasting flight period prior to a
+ restart. Sensing the activation of relief valves on the tank confirms overpressure.
+ Automatically, the computer can then command stopping or reducing the flow of
+ pressurant.
+ 9. Perform automatic closed-loop control of thrust and propellant utilization (described
+ before).
+ 10. Transmit signals to a flying vehicle’s telemetering system, which in turn can send them to
+ a ground station, thus providing information on the engine status, particularly during
+ experimental or initial flights.
+ 11. Self-test the computer and software.
