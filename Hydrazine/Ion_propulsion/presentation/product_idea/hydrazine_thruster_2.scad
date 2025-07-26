@@ -117,6 +117,52 @@ module base_plate() {
         cube([80, 80, 10]);
 }
 
+module deLaval_nozzle() {
+    difference() {
+        rotate_extrude(angle = 360)
+            polygon(points = [
+                [0, 0], [2, 5], [1.2, 10], [1.5, 15], [0.8, 25], [0.5, 35], [1, 40], [1.5, 50], [3, 60]
+            ]);
+        translate([0, 0, -1])
+            cylinder(r = 0.2, h = 70, center = true);
+    }
+}
+
+module fuel_injectors(count = 8, radius = 4) {
+    for (i = [0:count - 1]) {
+        rotate([0, 0, 360 * i / count])
+            translate([radius, 0, 0])
+                cylinder(h = 1, r = 0.2);
+    }
+}
+
+module combustion_chamber() {
+    cylinder(h = 10, r1 = 1.5, r2 = 2.5);
+}
+
+module cooling_channels(turns = 8, height = 20) {
+    for (i = [0:turns - 1]) {
+        rotate([0, 0, i * 360 / turns])
+            translate([1.5, 0, i * height / turns])
+                cylinder(h = 1, r = 0.05);
+    }
+}
+
+module turbopump() {
+    translate([0, 0, 10])
+        cylinder(h = 5, r = 1.2);
+}
+
+module fuel_tank() {
+    union() {
+        translate([0, 0, 60])
+            sphere(r = 4);
+        translate([0, 0, 56])
+            cylinder(h = 8, r = 4);
+    }
+}
+
+
 
 // --------------------- Ensamblaje ---------------------
 
