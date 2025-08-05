@@ -1,0 +1,95 @@
+-- AXI GPIO Custom RTL block (sintetizable, sin IP)
+-- Implementa lectura AXI4-Lite desde 2 bancos GPIO (solo entrada)
+
+library IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.numeric_std.all;
+
+entity axi_gpio_custom is
+    generic(
+        C_S_AXI_ADDR_WIDTH : integer := 9;
+        C_S_AXI_DATA_WIDTH : integer := 32;
+        C_GPIO_WIDTH       : integer := 3;
+        C_GPIO2_WIDTH      : integer := 3
+    );
+    port(
+        s_axi_aclk    : in  std_logic;
+        s_axi_aresetn : in  std_logic;
+
+        s_axi_awaddr  : in  std_logic_vector(C_S_AXI_ADDR_WIDTH-1 downto 0);
+        s_axi_awvalid : in  std_logic;
+        s_axi_awready : out std_logic;
+        s_axi_wdata   : in  std_logic_vector(C_S_AXI_DATA_WIDTH-1 downto 0);
+        s_axi_wstrb   : in  std_logic_vector((C_S_AXI_DATA_WIDTH/8)-1 downto 0);
+        s_axi_wvalid  : in  std_logic;
+        s_axi_wready  : out std_logic;
+        s_axi_bresp   : out std_logic_vector(1 downto 0);
+        s_axi_bvalid  : out std_logic;
+        s_axi_bready  : in  std_logic;
+
+        s_axi_araddr  : in  std_logic_vector(C_S_AXI_ADDR_WIDTH-1 downto 0);
+        s_axi_arvalid : in  std_logic;
+        s_axi_arready : out std_logic;
+        s_axi_rdata   : out std_logic_vector(C_S_AXI_DATA_WIDTH-1 downto 0);
+        s_axi_rresp   : out std_logic_vector(1 downto 0);
+        s_axi_rvalid  : out std_logic;
+        s_axi_rready  : in  std_logic;
+
+        gpio_io_i     : in  std_logic_vector(C_GPIO_WIDTH-1 downto 0);
+        gpio2_io_i    : in  std_logic_vector(C_GPIO2_WIDTH-1 downto 0)
+    );
+end entity;
+
+architecture rtl of axi_gpio_custom is
+
+    signal axi_arready_int : std_logic := '0';
+    signal axi_rvalid_int  : std_logic := '0';
+    signal axi_rdata_int   : std_logic_vector(C_S_AXI_DATA_WIDTH-1 downto 0) := (others => '0');
+
+begin
+
+    -- Salidas AXI de lectura
+    s_axi_arready <= axi_arready_int;
+    s_axi_rvalid  <= axi_rvalid_int;
+    s_axi_rdata   <= axi_rdata_int;
+    s_axi_rresp   <= "00";  -- OKAY
+
+    -- No se usa escritura, se ignoran señales
+    s_axi_awready <= '1';
+    s_axi_wready  <= '1';
+    s_axi_bvalid  <= '1';
+    s_axi_bresp   <= "00";
+
+    -- Proceso lectura AXI
+    process(s_axi_aclk)
+    begin
+        if rising_edge(s_axi_aclk) then
+            if s_axi_aresetn = '0' then
+                axi_arready_int <= '0';
+                axi_rvalid_int  <= '0';
+                axi_rdata_int   <= (others => '0');
+            else
+                -- Default
+                axi_arready_int <= '0';
+
+                if (s_axi_arvalid = '1' and axi_rvalid_int = '0') then
+                    axi_arready_int <= '1';
+                    axi_rvalid_int  <= '1';
+
+                    case s_axi_araddr(3 downto 2) is
+                        when "00" =>  -- Dirección base: GPIO 1
+                            axi_rdata_int <= (31 downto C_GPIO_WIDTH => '0') & gpio_io_i;
+                        when "01" =>  -- Dirección offset: GPIO 2
+                            axi_rdata_int <= (31 downto C_GPIO2_WIDTH => '0') & gpio2_io_i;
+                        when others =>
+                            axi_rdata_int <= (others => '0');
+                    end case;
+
+                elsif (s_axi_rvalid = '1' and s_axi_rready = '1') then
+                    axi_rvalid_int <= '0';
+                end if;
+            end if;
+        end if;
+    end process;
+
+end architecture;
